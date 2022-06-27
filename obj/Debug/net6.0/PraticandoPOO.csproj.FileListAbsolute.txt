@@ -1,0 +1,15 @@
+C:\Workspace\PraticandoPOO\bin\Debug\net6.0\PraticandoPOO.exe
+C:\Workspace\PraticandoPOO\bin\Debug\net6.0\PraticandoPOO.deps.json
+C:\Workspace\PraticandoPOO\bin\Debug\net6.0\PraticandoPOO.runtimeconfig.json
+C:\Workspace\PraticandoPOO\bin\Debug\net6.0\PraticandoPOO.dll
+C:\Workspace\PraticandoPOO\bin\Debug\net6.0\PraticandoPOO.pdb
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.csproj.AssemblyReference.cache
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.AssemblyInfoInputs.cache
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.AssemblyInfo.cs
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.csproj.CoreCompileInputs.cache
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.dll
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\refint\PraticandoPOO.dll
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.pdb
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\PraticandoPOO.genruntimeconfig.cache
+C:\Workspace\PraticandoPOO\obj\Debug\net6.0\ref\PraticandoPOO.dll
